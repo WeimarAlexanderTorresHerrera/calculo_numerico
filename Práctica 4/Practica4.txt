@@ -1,0 +1,3 @@
+Para el primer ejercicio el lenguaje C solo soporta hasta 17 decimales.
+Para el segundo ejercicio el lenguaje C solo soporta hasta 15 decimales.
+Las graficas se encuentran en los archivos .ods

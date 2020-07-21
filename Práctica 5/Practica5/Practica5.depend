@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1585349753 source:/home/weimar/Documentos/Calculo Numerico/Practica5/Practica5/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

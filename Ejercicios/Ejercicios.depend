@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1582927843 source:/home/weimar/Documentos/Calculo Numerico/Ejercicios/main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1584586306 source:/home/weimar/Documentos/Calculo Numerico/Practica4/Practica4/Practica4Ejercicio1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
